@@ -18,7 +18,7 @@
 
 About the project
 
-## 🏗️ Achitecture <a id="architecture"></a>
+## 🏗️ Architecture <a id="architecture"></a>
 
 Graphic of the architecture
 
